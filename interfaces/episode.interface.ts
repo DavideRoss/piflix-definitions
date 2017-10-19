@@ -1,5 +1,5 @@
-import { ISeason } from 'defs/season.interface';
-import { IShow } from 'defs/show.interface';
+import { ISeason } from 'defs/interfaces/season.interface';
+import { IShow } from 'defs/interfaces/show.interface';
 
 export interface IEpisode {
     remoteId: number;
